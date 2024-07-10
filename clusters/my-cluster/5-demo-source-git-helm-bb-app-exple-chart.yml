@@ -7,5 +7,5 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: 5-demo
+    branch: main
   url: https://github.com/KhouloudYaich/bb-app
