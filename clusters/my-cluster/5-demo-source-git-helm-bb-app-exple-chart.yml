@@ -19,6 +19,6 @@ spec:
   interval: 1m0s
   ref:
     branch: main
-  url: https://github.com/KhouloudYaich/bb-app
+  url: ssh://git@github.com:KhouloudYaich/bb-app.git
   secretRef:
     name: flux-git-secret
