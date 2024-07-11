@@ -1,0 +1,5 @@
+deployment:
+  name: nginx
+  replicas: 3
+  image: nginx:1.14.2
+  port: 80
